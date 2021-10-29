@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoshuaOkaka
 - 👀 I’m interested in A.I,cybersecurity and web related tech
-- 🌱 I’m currently learning django and web app 
+- 🌱 I’m currently learning django and web app hacking
 - 💞️ I’m looking to collaborate on world changing projects
 - 📫 How to reach me joshuaokaka@protonmail.com
 
