@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joshua Okaka
-- 👀 I’m interested in A.I,cybersecurity and web related tech
-- 🌱 I’m currently a python/django developer
+- 👀 I’m interested in A.I,cryptography,iot and web related tech
+- 🌱 I’m currently a web developer who build awesome web app using tools like python/django.
 - 💞️ I’m looking to collaborate on world changing projects
 - 📫 How to reach me joshuaokaka@protonmail.com
 
